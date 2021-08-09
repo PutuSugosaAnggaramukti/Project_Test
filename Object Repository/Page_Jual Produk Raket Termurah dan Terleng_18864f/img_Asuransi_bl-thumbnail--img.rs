@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Asuransi_bl-thumbnail--img</name>
+   <tag></tag>
+   <elementGuidId>c447ca3c-a54f-48b2-aea3-08fcb3d8f74c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='product-explorer-container']/div/div/div[2]/div/div[2]/div[3]/div/div/div/div/div/figure/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.bl-thumbnail--img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Raket Badminton Lining paket lengkap</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://s1.bukalapak.com/img/18933540942/s-330-330/data.jpeg.webp</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-thumbnail--img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-explorer-container&quot;)/div[@class=&quot;bl-container&quot;]/div[@class=&quot;bl-flex-container&quot;]/div[@class=&quot;bl-flex-item bl-product-list-wrapper&quot;]/div[@class=&quot;bl-flex-container direction-column&quot;]/div[2]/div[3]/div[@class=&quot;bl-flex-container flex-wrap is-gutter-16&quot;]/div[@class=&quot;bl-flex-item mb-8&quot;]/div[@class=&quot;bl-product-card te-product-card&quot;]/div[@class=&quot;bl-product-card__wrapper&quot;]/div[@class=&quot;bl-product-card__thumbnail&quot;]/figure[@class=&quot;bl-thumbnail&quot;]/div[@class=&quot;bl-thumbnail--slider&quot;]/div[1]/a[@class=&quot;slide&quot;]/img[@class=&quot;bl-thumbnail--img&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='product-explorer-container']/div/div/div[2]/div/div[2]/div[3]/div/div/div/div/div/figure/div/div/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Raket Badminton Lining paket lengkap']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figure/div/div/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>
